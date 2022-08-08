@@ -1,5 +1,5 @@
 # Use Turtlebot3 with SLAM approach
-Run [Turtlebot3 robot with SLAM approach to create a map and save it using ROS meoldic](https://emanual.robotis.com/docs/en/platform/turtlebot3/slam/).
+[Turtlebot3 robot](https://emanual.robotis.com/docs/en/platform/turtlebot3/slam/) with SLAM approach to create a map and save it using ROS meoldic.
 
 ## Overview:
 
